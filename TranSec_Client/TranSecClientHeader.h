@@ -1,8 +1,8 @@
 /* TranSec v1.1*/
 /* Header file connecting the support functions and primary control files */
 
-#ifndef OVERALLHEADER_H
-#define OVERALLHEADER_H
+#ifndef TRANSECCLIENTHEADER_H
+#define TRANSECCLIENTHEADER_H
 
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
