@@ -1,7 +1,7 @@
 /* TranSec v1.1 */
 /* Support functions for the client application (encryptions, etc) */
 
-#include "TranSecClientHeader.h"
+#include "TransmitterHeader.h"
 
 using namespace std;
 
