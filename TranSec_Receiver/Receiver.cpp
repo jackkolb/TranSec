@@ -1,7 +1,7 @@
 /* TranSec v1.1 */
 /* Primary Control */
 
-#include "TranSecServerHeader.h"
+#include "ReceiverHeader.h"
 
 WSADATA winsockData;
 SOCKET inboundSocket;
