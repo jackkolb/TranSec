@@ -1,8 +1,8 @@
 /* TranSec v1.1 */
 /* Header File: Connects functions and libraries between ServerSupportFunctions.cpp and Server.cpp */
 
-#ifndef TRANSECSERVERHEADER_H
-#define TRANSECSERVERHEADER_H
+#ifndef RECEIVERHEADER_H
+#define RECEIVERHEADER_H
 
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define _CRT_SECURE_NO_WARNINGS
