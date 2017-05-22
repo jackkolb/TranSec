@@ -1,7 +1,7 @@
 /* TranSec v1.1 */
 /* Controls the client program */
 
-#include "TranSecClientHeader.h" // contains libraries and support functions
+#include "TransmitterHeader.h" // contains libraries and support functions
 
 WSADATA wsaData;
 SOCKET inboundSocket;
