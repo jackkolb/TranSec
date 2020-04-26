@@ -16,6 +16,7 @@ Encrypts a file as per a key string, and sends to a port of a receiving IP addre
 
 Command Line:
 TranSec_Transmitter \<receiving IPv4 address\> \<port number\> \<key\> \<file path\>
+
 If no arguments are provided, the program will ask for them individually
 
 
@@ -24,5 +25,6 @@ Listens on a port for an incoming file, then decrypts as per a key string and sa
 
 Command Line:
 TranSec_Receiver \<port number\> \<key\>
+
 If no arguments are provided, the program will ask for them individually
 
