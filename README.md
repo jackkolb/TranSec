@@ -1,6 +1,6 @@
-TranSec: An End-to-End-Encrypted File Transfer Program
+#TranSec: An End-to-End-Encrypted File Transfer Program
 
-How to Use:
+##How to Use:
 
 TranSec_Transmitter: Encrypts a file as per a key string, and sends to a port of a receiving IP address 
 
